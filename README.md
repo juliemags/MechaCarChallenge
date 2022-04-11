@@ -32,7 +32,7 @@ Lot 1 did not show a significant difference in PSI. Our P-value was 1, much high
 Lot 2 did not show a significant difference in PSI. Our P-value was 0.6072, much higher than the significance level of p=0.05, so we fail to reject the null hypothesis. 
 
 ![lot3_t_test](https://user-images.githubusercontent.com/95596987/162661502-12a61bfb-6297-4158-af07-b5abd97b71f6.PNG)
- the null. 
+
 Lot 3 had a p-value below 0.05, so we reject the null hypothesis. We have reason to believe PSI is different than the mean 1500 in Lot 3. 
 
 
