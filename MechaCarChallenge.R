@@ -23,9 +23,6 @@ lot_summary <- df2 %>% group_by(Manufacturing_Lot) %>% summarize(Mean = mean(PSI
 
 ##Deliverable 3
 #Manufacturing lots significance test
-sample1 <- Suspension_Coil %>% sample_n(50)
-sample2 <- Suspension_Coil %>% sample_n(50)
-
 t.test(df2$PSI, mu=1500)
 
 t.test(subset(df2,Manufacturing_Lot == "Lot1")$PSI, mu=1500) #Fail to Reject
