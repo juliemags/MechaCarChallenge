@@ -1,7 +1,7 @@
 # MechaCarChallenge
 
 ## Linear Regression to Predict MPG
-- [![Linear_Regression_Output](https://user-images.githubusercontent.com/95596987/162660680-2e76ed1f-ad7f-4667-8b76-9a8c90571b39.PNG)]
+![Linear_Regression_Output](https://user-images.githubusercontent.com/95596987/162660680-2e76ed1f-ad7f-4667-8b76-9a8c90571b39.PNG)]
 
 - This model shows the potential interactions/relationships and if they affect the MPG of a car. According to this model, if you were to increase any of the variables by one unit (or in the case of AWD, include AWD), vehicle length had the largest solo effect on MPG of a car. The slope is not zero for this model, as each variable has a slope that may show an effect on MPG of a car. 
 - I think that this model shows generally how changing each aspect of the car effects the MPG of a car. It also makes sense in my mind, cars that are bigger typically have lower MPG. I would think that MPG would increase when a car has AWD (in our model, it decreases) but I am not a car expert so I couldn't be too sure. 
